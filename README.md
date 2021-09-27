@@ -1,16 +1,20 @@
-### Hi there 👋
+# Servus! 👋
 
-<!--
-**ASchwad/ASchwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Full Stack Developer and Co-Founder of Futuro Farming GmbH - Coding farming innovations 🐮💉  
+🎓 Master of Science in Computer Science
+👨‍💻 Skills:
+* 📱 Mainly programming in JavaScript, TypeScript and Python with React.js, React Native and Node.js 
+* ☁️ Maintaining and optimizing our AWS infrastructure (DynamoDB, RDS, Elastic Beanstalk, Amplify, S3, Lambda, Glue, Neptune) 
+* 🧙‍♂️ Understanding design principles e.g. the power of font size, weight, spacing and more (Figma, Photoshop, Illustrator) 
 
-Here are some ideas to get you started:
+### Favorite previous project  
+🎮 <a href="https://github.com/ASchwad/GTC" target="_blank" rel="noreferrer">native iOS App: Augmented Reality Game</a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Previously researched for the BMW Group's data lake team
+Researched on how to collect and visualize data lineage within BMW Group's cloud-native data lake  
+Tech: Typescript, Python, Gremlin (Graph traversal language), Spark 
+  
+[Blog Posts](https://medium.com/@alex.schoenenwald) | Paper (will be released soon) 
+
+### Open-source contributions
+[Reaflow](https://github.com/reaviz/reaflow)
