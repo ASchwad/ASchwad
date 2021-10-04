@@ -1,7 +1,7 @@
 # Servus! 👋
 
 💼 Full Stack Developer and Co-Founder of Futuro Farming GmbH - Coding farming innovations 🐮💉  
-🎓 Master of Science in Computer Science
+🎓 Master of Science in Computer Science  
 👨‍💻 Skills:
 * 📱 Mainly programming in JavaScript, TypeScript and Python with React.js, React Native and Node.js 
 * ☁️ Maintaining and optimizing our AWS infrastructure (DynamoDB, RDS, Elastic Beanstalk, Amplify, S3, Lambda, Glue, Neptune) 
