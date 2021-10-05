@@ -14,7 +14,7 @@
 Researched on how to collect and visualize data lineage within BMW Group's cloud-native data lake  
 Tech: Typescript, Python, Gremlin (Graph traversal language), Spark 
   
-[Blog Posts](https://medium.com/@alex.schoenenwald) | Paper (will be released soon) 
+[Blog Posts](https://medium.com/@alex.schoenenwald) | [Paper](https://link.springer.com/article/10.1007/s13222-021-00387-7) 
 
 ### Open-source contributions
 [Reaflow](https://github.com/reaviz/reaflow)
