@@ -22,4 +22,4 @@ Tech: Typescript, Python, Gremlin (Graph traversal language), Spark
 [react-native-datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker)  
 
 ### Contact
-💬 Feel free to reach out via [Twitter](twitter.com/AlexSchwad)
+💬 Feel free to reach out via [Twitter](https://twitter.com/AlexSchwad)
