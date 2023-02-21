@@ -1,14 +1,5 @@
-Hi 👋 My name is Alex Schoenenwald  
+Hi 👋 
 ==================================  
-Full Stack Developer and Co-Founder @Futuro Farming GmbH  
---------------------------------------------------------  
-👨🏻‍💻 Daily implementing features from end-to-end: Refining our AWS architecture, Implementing the backend, Sketch UIs in Figma and finally bringing it all to the user via React as Web, iOS and Android App.  
-🎓 While building the IT Infrastructure of our startup, I graduated with a Master of Science in Computer Science (Focus on Software Engineering)
-
-### Previously researched for the BMW Group's data lake team
-Researched on how to collect and visualize data lineage within BMW Group's cloud-native data lake  
-Tech: Typescript, Python, Gremlin (Graph traversal language), Apache Spark 
-
 [Blog Posts](https://medium.com/@alex.schoenenwald) | [Paper](https://link.springer.com/article/10.1007/s13222-021-00387-7) 
 --------------------------------------------------------  
 
